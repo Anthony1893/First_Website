@@ -86,12 +86,12 @@ body{
 }
 
 .vertical-menu a:hover {
-    background-color: #ccc; /* Dark grey background on mouse-over */
+    background-color: #ccc;
     color: black;
 }
 
 .vertical-menu a.active {
-    background-color: #4CAF50; /* Add a green color to the "active/current" link */
+    background-color: #4CAF50;
     color: white;
 }
 
@@ -225,7 +225,7 @@ img {vertical-align: middle;}
     to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
+
 @media only screen and (max-width: 300px) {
     .prev, .next,.text {font-size: 11px}
 }
