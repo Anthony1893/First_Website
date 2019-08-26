@@ -1,0 +1,195 @@
+
+body{
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    margin:0
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+}
+
+.navbar a {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 30px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.fixed-bg {
+     background-image: url("../image/hintergrund.jpg");
+     min-height: 500px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+#body{
+    color: white;
+}
+
+#is{     /* Text horiz. ausrichten */
+    font-weight: bold;   /* Text formatieren */
+    color: red;               /* Text Farbe */
+    font-size: 90px;
+}
+#goal{     /* Text horiz. ausrichten */
+    font-weight: bold;   /* Text formatieren */
+    color: white;               /* Text Farbe */
+    font-size: 90px;
+}
+#infos{
+    color: white;
+    float: left;
+}
+.footer-basic-centered{
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font: normal 18px sans-serif;
+
+    padding: 45px;
+    margin-top: 80px;
+}
+
+.footer-basic-centered .footer-company-motto{
+    color:  lightgray;
+    font-size: 20px;
+    margin: 0;
+}
+.footer-basic-centered .arnold{
+    color:  #8d9093;
+    font-size: 20px;
+    margin: 0;
+}
+
+.footer-basic-centered .footer-company-name{
+    color:  #8f9296;
+    font-size: 14px;
+    margin: 0;
+}
+
+.footer-basic-centered .footer-links{
+    list-style: none;
+    font-weight: bold;
+    color:  #ffffff;
+    padding: 35px 0 23px;
+    margin: 0;
+}
+
+.footer-basic-centered .footer-links a{
+    display:inline-block;
+    text-decoration: none;
+    color: inherit;
+}
+
+#banner3 {
+    width: 100%;
+    max-width:100%;
+    border: 0;
+    margin-top: 20%;
+    margin-bottom: 26px;
+
+}
+.tri {
+    position: relative;
+    width: 33.33%;
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: center;
+}
+.tri img {
+    max-width: 90%;
+    vertical-align: bottom;
+
+
+}
+#abstand{
+
+    height: 500px;
+}
+#zitateabstand{
+
+    height: 150px;
+}
+
+.count-title {
+    font-size: 50px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+}
+
+.stats-text {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 15px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.stats-line-black {
+    margin: 12px auto 0;
+    width: 55px;
+    height: 2px;
+    background-color: #fff;
+}
+
+
+

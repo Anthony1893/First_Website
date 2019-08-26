@@ -1,0 +1,34 @@
+#bauchmuskeluebung1{
+    background-image: url("../image/sport.jpg");
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#beintraining1{
+      background-image: url("../image/Kniebeugen1.jpg");
+      min-height: 500px;
+      background-position: center;
+      background-repeat: no-repeat;
+  }
+#bizeps1{
+    background-image: url("../image/bizeps_uebungen_zuhause-konzentrationscurls.gif");
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#box1 { /*div*/
+    width: 100%;
+}
+#box2 {
+    width: 100%;
+}
+#uebungbauch{ /*label Unser Ziel*/
+    color: red;
+    font-weight: bold;
+    font-size: 60px;
+}
+#ziel{ /*Text*/
+    color: white;
+    font-size: 25px;
+    padding-top: 2%;
+}

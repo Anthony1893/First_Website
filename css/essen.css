@@ -1,0 +1,228 @@
+#logo{
+
+     width: 2000px;
+
+ }
+h1{
+    color: white;
+    font-size: 75px;
+}
+.fixed-bg {
+    background-image: url("../image/essen.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body{
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    margin:0
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+}
+
+.navbar a {
+    float: left;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 30px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.footer-basic-centered{
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font: normal 18px sans-serif;
+
+    padding: 45px;
+    margin-top: 80px;
+}
+
+.footer-basic-centered .footer-company-motto{
+    color:  lightgray;
+    font-size: 20px;
+    margin: 0;
+}
+.footer-basic-centered .arnold{
+    color:  #8d9093;
+    font-size: 20px;
+    margin: 0;
+}
+
+
+.footer-basic-centered .footer-company-name{
+    color:  #8f9296;
+    font-size: 14px;
+    margin: 0;
+}
+
+.footer-basic-centered .footer-links{
+    list-style: none;
+    font-weight: bold;
+    color:  #ffffff;
+    padding: 35px 0 23px;
+    margin: 0;
+}
+
+.footer-basic-centered .footer-links a{
+    display:inline-block;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 600px) {
+
+    .footer-basic-centered{
+        padding: 35px;
+    }
+
+    .footer-basic-centered .footer-company-motto{
+        font-size: 18px;
+    }
+
+    .footer-basic-centered .footer-company-name{
+        font-size: 12px;
+    }
+
+    .footer-basic-centered .footer-links{
+        font-size: 14px;
+        padding: 25px 0 20px;
+    }
+
+    .footer-basic-centered .footer-links a{
+        line-height: 1.8;
+    }
+}
+/***********/
+#mash { /*div*/
+    max-width:150%;
+    padding-top: 6%;
+    margin-left: 10%;
+}
+#ziele{ /*label Unser Ziel*/
+    color: red;
+    font-weight: bold;
+    font-size: 60px;
+}
+#ziel{ /*Text*/
+    max-width: 50%;
+    color: white;
+    font-size: 25px;
+    padding-top: 2%;
+}
+/***********/
+#text{  /*div*/
+    max-width: 1700px;
+    padding-top: 10%;
+    margin-left: 10%;
+}
+#tricks{ /*label Tips und Tricks*/
+    color: red;
+    font-weight: bold;
+    font-size: 60px;
+}
+.tips{ /*Text*/
+    color: white;
+    font-size: 25px;
+    padding-top: 2%;
+    list-style: square;
+}
+
+/***********/
+#bild{
+    margin-right: 20%;
+    float: right;
+    width: 27%;
+    position: relative;
+    max-width: 20%;
+
+}
+
+#banner3 {
+    width: 100%;
+    max-width:100%;
+    border: 0;
+    margin-bottom: 26px;
+
+}
+.tri {
+    position: relative;
+    width: 33.33%;
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: center;
+}
+.tri img {
+    max-width: 90%;
+    vertical-align: bottom;
+
+
+}
+
+#abstand1{
+
+    height: 500px;
+}
+#abstand2{
+
+    height: 500px;
+}
+
