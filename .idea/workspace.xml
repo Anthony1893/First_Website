@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38bea812-a2ee-4138-a504-9b6ce17b61c2" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/Informatiker" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Website/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="38bea812-a2ee-4138-a504-9b6ce17b61c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website" beforeDir="false" afterPath="$PROJECT_DIR$/Website" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/essen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/essen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/followus.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/followus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/profil.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/profil.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sport.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sport.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/Profil.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Profil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/essen.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/essen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/footer/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/footer/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/footer/followus.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/footer/followus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Bein.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Bein.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Bizeps.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Bizeps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Brustmuskel.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Brustmuskel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Ganzkörper.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Ganzkörper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Rücken.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Rücken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Schulter.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Schulter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Trizeps.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Trizeps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/Unterarm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/Unterarm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/html-sport/bauchmuskel.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/html-sport/bauchmuskel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/profil/persönlich.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/profil/persönlich.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/profil/profil2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/profil/profil2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/sport.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/sport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/persönlich.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/profil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/test.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,8 +25,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/profil.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="276" lean-forward="true" selection-start-line="276" selection-end-line="276" />
+            <state relative-caret-position="6504">
+              <caret line="271" selection-start-line="271" selection-end-line="271" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/html-sport/Brustmuskel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/sport.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="53" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/Profil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />
+            <state relative-caret-position="240">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -82,6 +86,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -114,7 +119,6 @@
         <option value="$PROJECT_DIR$/css/persönlich.css" />
         <option value="$PROJECT_DIR$/html/profil/persönlich.html" />
         <option value="$PROJECT_DIR$/html/essen.html" />
-        <option value="$PROJECT_DIR$/html/sport.html" />
         <option value="$PROJECT_DIR$/html/html-sport/Bein.html" />
         <option value="$PROJECT_DIR$/html/html-sport/bauchmuskel.html" />
         <option value="$PROJECT_DIR$/css/uebungen.css" />
@@ -128,14 +132,15 @@
         <option value="$PROJECT_DIR$/css/sport.css" />
         <option value="$PROJECT_DIR$/css/about.css" />
         <option value="$PROJECT_DIR$/css/followus.css" />
-        <option value="$PROJECT_DIR$/css/profil.css" />
         <option value="$PROJECT_DIR$/html/Profil.html" />
+        <option value="$PROJECT_DIR$/css/profil.css" />
+        <option value="$PROJECT_DIR$/html/sport.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1192" />
-    <option name="width" value="737" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,6 +150,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Default.DESKTOP-FRLI49L\WebstormProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Default.DESKTOP-FRLI49L\WebstormProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="html" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,27 +187,6 @@
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Default.DESKTOP-FRLI49L\WebstormProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Default.DESKTOP-FRLI49L\WebstormProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Default.DESKTOP-FRLI49L\WebstormProjects\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="html" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -285,12 +285,28 @@
       <workItem from="1563970303358" duration="10736000" />
       <workItem from="1566375857559" duration="2000" />
       <workItem from="1566577510042" duration="10664000" />
-      <workItem from="1566826223445" duration="1353000" />
+      <workItem from="1566826223445" duration="2826000" />
+      <workItem from="1572793918860" duration="951000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1566827747270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566827747270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1566827807753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566827807753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99281000" />
+    <option name="totallyTimeSpent" value="101705000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,16 +318,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985119" visible="true" weight="0.16912752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985119" visible="true" weight="0.35367545" />
       <window_info id="Structure" order="1" sideWeight="0.5014881" side_tool="true" weight="0.21581769" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="GitHub Pull Requests" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32886904" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32886904" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -321,6 +335,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.31470588" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" order="11" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -361,7 +377,6 @@
     <entry file="file://$PROJECT_DIR$/sport.html" />
     <entry file="file://$PROJECT_DIR$/sport.css" />
     <entry file="file://$PROJECT_DIR$/index.css" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/css/profil.index" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -388,34 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="4550" column="63" selection-end-line="18436" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/profil.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/persönlich.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -509,26 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/html-sport/Brustmuskel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/sport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/pyramide.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -554,13 +521,6 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -664,15 +624,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/profil.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="276" lean-forward="true" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="6504">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/html-sport/Brustmuskel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2329">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/profil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/persönlich.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/sport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="53" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/Profil.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="40" column="104" selection-start-line="40" selection-start-column="104" selection-end-line="40" selection-end-column="104" />
+        <state relative-caret-position="240">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
