@@ -112,39 +112,32 @@ body{
 }
 table{
     border-spacing: 40px;
+
 }
 td{
     color: white;
     font-size: 25px;
 
-}
-#name{
-    border-radius: 10px 10px 10px 10px;
-    font-size: 25px;
 
 }
-#date{
+.name{
     border-radius: 10px 10px 10px 10px;
     font-size: 25px;
-    padding-right: 15%;
-}
-#female{
-    border-radius: 10px 10px 10px 10px;
-    font-size: 25px;
+    outline: 0 none;
+
 }
 #number{
     border-radius: 10px 10px 10px 10px;
     font-size: 25px;
+    outline: 0 none;
 }
 #mail{
     border-radius: 10px 10px 10px 10px;
     font-size: 25px;
-
-}
-#geschlecht{
-    border-color: black;
+    outline: 0 none;
 }
 #save,#reset,#cancel{
     border-radius: 10px 10px 10px 10px;
     font-size: 22px;
+    outline: 0 none;
 }
