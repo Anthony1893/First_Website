@@ -139,3 +139,39 @@ body{
         line-height: 1.8;
     }
 }
+#banner3 {
+    width: 100%;
+    max-width:100%;
+    border: 0;
+    margin-top: 20%;
+    margin-bottom: 26px;
+
+}
+.tri {
+    position: relative;
+    width: 33.33%;
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: center;
+}
+.tri img {
+    max-width: 90%;
+    vertical-align: bottom;
+
+
+}
+#abstand{
+
+    height: 500px;
+}
+#self{
+
+}
+.ich{
+    color: white;
+}
+.schrift{
+    color: white;
+    font-size: 27px;
+}

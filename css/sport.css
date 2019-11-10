@@ -210,7 +210,7 @@ img {vertical-align: middle;}
     -webkit-animation-duration: 1.5s;
     animation-name: fade;
     animation-duration: 1.5s;
-    padding-top: 30%;
+    padding-top: 10%;
     margin-left: 35%;
 
 }
@@ -228,4 +228,30 @@ img {vertical-align: middle;}
 
 @media only screen and (max-width: 300px) {
     .prev, .next,.text {font-size: 11px}
+}
+#banner3 {
+    width: 100%;
+    max-width:100%;
+    border: 0;
+    margin-top: 20%;
+    margin-bottom: 26px;
+
+}
+.tri {
+    position: relative;
+    width: 33.33%;
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: center;
+}
+.tri img {
+    max-width: 90%;
+    vertical-align: bottom;
+
+
+}
+#abstand{
+
+    height: 500px;
 }
